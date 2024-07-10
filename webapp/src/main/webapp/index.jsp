@@ -4,12 +4,12 @@
     <p>Please fill in this form.</p>
     <hr>
      
-    <label for="Name"><b>SHYAM PRAKASH REDDY</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="SHYAM PRAKASH REDDY" name="Name" id="Name" required>
     <br>
     
-    <label for="PS NO"><b>10743442</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="PS N0"><b>PS NO</b></label>
+    <input type="text" placeholder="10743442" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
