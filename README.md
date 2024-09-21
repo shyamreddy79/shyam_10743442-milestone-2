@@ -2,72 +2,92 @@ register-app
 <br>
 Test93
 
-How many steps are there in critical thinking to finding a solution to any problem?
-A. 500%
-B. 600%
-C. 700%
-D. 800%
+Which of the  following behaviors is Not accepted in an accountable culture?
+A. no meeting after the meeting
+B. clear agreement
+C. making expectations clear
+D. being defensive
 2
-Which of the following methods will you NOT use to compare solutions?
-A. Pros and Cons
-B. Weighted Rubric
-C. SWOT Analysis
-D. Concept Map
+Taking ownership is about 
+A. owning good things
+B. taking credit for a good job and stepping up if things go wrong
+C. undergoing pain and loss
+D. imposing accountability
 3
-What is the full form of the acronym IDEA
-A. Identify, Determine, Engage, Assess
-B. Identify, Develop, Execute, Assess
-C. Identify, Drive, Execute, Assess
-D. Identify, Direct, Eliminate, Assess
+Which of the following deeds is a hindrance to the accountable culture of an organization?
+A. avoiding conflict 
+B. understanding level of authority
+C. communicating clearly
+D. holding self and others accountable 
 4
-Which of the following methods produces better system models?
-A. Drawings
-B. Notes
-C. Acting
-D. Group Notes
+All the following are individual factors that collectively represent Personal accountability except :
+A. commitment
+B. ownership
+C. resilience
+D. rigidity
 5
-What is step 3 in critical thinking to solve a problem?
-A. Is the evidence reliable?
-B. What are the symptoms?
-C. What are the assumptions?
-D. Is there information missing?
+Which of the following statements is Not true with respect to Accountability and responsibility?
+A. responsibility can be shared  whereas one person is ultimately accountable
+B. responsibility  is a   task that needs to be done whereas  accountability focuses on overall results
+C. responsibility cannot be delegated whereas accountability can be delegated
+D. responsibility does not  emphasize one individual whereas accountability takes individual ownership
 6
-Which of the following is not a way to design around an "I can't" mindset?
-A. See problems as opportunities
-B. Complicate thoughts
-C. Use a technique
-D. Filter out the unnecessary
+Which of the following is NOT an accountable behavior?
+A. own a situation
+B. find solutions
+C. make something different happen
+D. judge and disparage  co-workers
 7
-What is Retrograde Analysis?
-A. To look back, turn around
-B. To look ahead, open your mind
-C. To look back, it pays to look forward
-D. To look ahead, it pays to look backwards
+The effectiveness of your communication is measured by the ________ you get 
+A. stories
+B. reasons
+C. criticism
+D. results 
 8
-What do nodes represent?
-A. The tangible objects
-B. The connections
-C. The problems
-D. The quality of objects
+According to the 'Accountability Ladder' the first step in taking accountability is to 
+A. blame others
+B. make excuses
+C. acknowledge reality
+D. wait  for things to happen
 9
-How many ways are there to play just the first 4 moves in chess?
-A. 318 Billion
-B. 416 Billion
-C. 320 Billion
-D. 20 Billion
+When you take ownership of your goals and thinking, your focus shifts from
+A. power to helplessness
+B. blame to possibility
+C. strength to weakness
+D. problems to complaints
 10
-Seeing an object as only performing one function and not possibly doing something new defines which of the following terms?
-A. Analogical Transfer
-B. Mental Illness
-C. Functional Fixedness
-D. Fixation
+If you are going to build a culture of accountability, you need to 
+A. teach people how to think strategically
+B. spoon feed people every step of the way
+C. encourage victimhood
+D. criticize  people to get them down
 11
-Which of the following questions is a creative opener?
-A. What if?
-B. Who if?
-C. Where if?
-D. How if?
+In order to have an accountable culture in the organization, you need to 
+A. create an environment of distrust
+B. have a clear decision making process
+C. make excuses to blame others  when something goes wrong at work
+D. take work that is  sub- par
 12
-The Fishbone Diagram is used to identify the root cause of a problem
-A. TRUE
-B. FALSE
+If a person says, ' I cannot talk to my boss, he does not listen to me', he/ she
+A. lacks wisdom to figure out different positive ways 
+B. confronts the truth
+C. negotiates a change
+D. reframes the situation
+13
+As specified by the presenter, which of the following  key words of Serenity prayer comes with a sense of ownership?
+A. wisdom
+B. acceptance
+C. courage 
+D. perception
+14
+Accountability is 
+A. consequences for negative - behavior 
+B. punishment to be avoided
+C. freedom of  choice
+D. poor performance 
+15
+Which of the following  examples signifies Resilience?
+A. I do not have enough resources - I am really unlucky
+B. My manager does not give me any feedback - I will communicate  and get my own feedback 
+C. My co workers are not committed to doing quality work - I am afraid of conflicts
+D. I cannot finish the project on time- my team is not efficient 
