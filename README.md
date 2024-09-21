@@ -2,50 +2,71 @@ register-app
 <br>
 Test93
 
-Which of these should you focus on before a speech?
-A. Pronunciation
-B. Pace
-C. Inflection
-D. All of these
+Which of the following is NOT a recommended presentation technique?
+A. Speaking slowly
+B. Reading every word of your presentation from your notes
+C. Writing/typing notes with very large font
+D. Writing down hints like "pause" or "change slide"
 2
-Which of these are a main goal of the opening segment of your presentation?
-A. Break the audience's attention from their preoccupations
-B. Give a hint as to the direction of your speech
-C. Give the audience a clear reason how they will benefit from listening to you
+Which of these is a good way to create contrast in your presentation?
+A. Mix the design of your slides
+B. Change the tone of your voice
+C. Move around the room
 D. All of these
 3
-It is always appropriate to use hand gestures while speaking.
+Humor can be successfully incorporated into a professional presentation to create a connection with the audience.
 A. True
 B. False
 4
-The _____ of a speech; designed to reinforce the central idea or thesis, motivate an appropriate audience response, and achieve closure.
-A. Starting
-B. Central idea
-C. Summary
-D. Ending
+To be a good presenter, you need to be _________
+A. A naturally talented and charismatic speaker
+B. Good at making animations in PowerPoint
+C. Good looking and pleasing
+D. Well prepared
 5
-What is one thing you want your audience to be able to do after your speech?
-A. Remember what you look like
-B. Remember where you're from
-C. Sum up the take-away message
-D. Be able to recite most of your speech
+Style of delivery corresponds to:
+A. Story flow, Clarity and Visual representation of data
+B. Effective opening, Audience engagement, verbal transition between slides
+C. Eye contact, Voice clarity, hand gestures, Movement or use of stage
+D. All of the above
 6
-Which visual cue is critical to engaging your audience?
-A. Standing extremely far from your audience
-B. Standing or sitting upright, head up and confident
-C. Making glaring eye contact
-D. Clean, professional attire matching the same dress code as the client
+Which is an essential part of any presentation?
+A. Presentation Structure
+B. Style of Delivery
+C. Method of Delivery
+D. All of the above
 7
-Public speaking anxiety is a variant of communication anxiety made up of
-A. Process anxiety
-B. Performance anxiety
-C. Both of the above
-D. None of the above
+The method of connecting to an audience through common ground is called ________
+A. Hanging out
+B. Identifying
+C. Friending
+D. Associating
 8
-A person’s ability to speak in public will improve the most ______.
-A. By listening to other speakers
-B. By researching good speaking techniques
-C. The more they practice speaking in public
-D. With time
-
-
+What is the best way to practice and review for a presentation?
+A. Present to family & friends
+B. Present to colleagues
+C. Video tape yourself
+D. All of these
+9
+Audience engagement can be increased by:
+A. Interactive Media
+B. Activities
+C. Charts
+D. All of the above
+10
+Towards the end of a presentation, what should be the focus?
+A. Reviewing key points
+B. Schmoozing and mingling
+C. Having fun together at a lunch or dinner
+D. Collecting business cards
+11
+What is the best plan when preparing for a presentation?
+A. Prepare trigger words to remind you of key points
+B. Create a professionally designed PowerPoint slide show
+C. All of these
+D. Study your subject, and prepare notes
+12
+If you are presenting slides to a room of people, you should stand so that you are facing the:
+A. Slides
+B. Projector
+C. Audience
